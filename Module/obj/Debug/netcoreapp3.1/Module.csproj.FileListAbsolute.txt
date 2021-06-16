@@ -1,0 +1,12 @@
+/Users/leonardocontreras/OneDrive/Work/CIS 131 Introduction to Computer Programming/Module/Module/bin/Debug/netcoreapp3.1/Module.deps.json
+/Users/leonardocontreras/OneDrive/Work/CIS 131 Introduction to Computer Programming/Module/Module/bin/Debug/netcoreapp3.1/Module.runtimeconfig.json
+/Users/leonardocontreras/OneDrive/Work/CIS 131 Introduction to Computer Programming/Module/Module/bin/Debug/netcoreapp3.1/Module.runtimeconfig.dev.json
+/Users/leonardocontreras/OneDrive/Work/CIS 131 Introduction to Computer Programming/Module/Module/bin/Debug/netcoreapp3.1/Module.dll
+/Users/leonardocontreras/OneDrive/Work/CIS 131 Introduction to Computer Programming/Module/Module/bin/Debug/netcoreapp3.1/Module.pdb
+/Users/leonardocontreras/OneDrive/Work/CIS 131 Introduction to Computer Programming/Module/Module/obj/Debug/netcoreapp3.1/Module.AssemblyInfoInputs.cache
+/Users/leonardocontreras/OneDrive/Work/CIS 131 Introduction to Computer Programming/Module/Module/obj/Debug/netcoreapp3.1/Module.AssemblyInfo.cs
+/Users/leonardocontreras/OneDrive/Work/CIS 131 Introduction to Computer Programming/Module/Module/obj/Debug/netcoreapp3.1/Module.csproj.CoreCompileInputs.cache
+/Users/leonardocontreras/OneDrive/Work/CIS 131 Introduction to Computer Programming/Module/Module/obj/Debug/netcoreapp3.1/Module.dll
+/Users/leonardocontreras/OneDrive/Work/CIS 131 Introduction to Computer Programming/Module/Module/obj/Debug/netcoreapp3.1/Module.pdb
+/Users/leonardocontreras/OneDrive/Work/CIS 131 Introduction to Computer Programming/Module/Module/obj/Debug/netcoreapp3.1/Module.genruntimeconfig.cache
+/Users/leonardocontreras/OneDrive/Work/CIS 131 Introduction to Computer Programming/Module/Module/obj/Debug/netcoreapp3.1/Module.csproj.AssemblyReference.cache
